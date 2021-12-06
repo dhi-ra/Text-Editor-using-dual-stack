@@ -1,7 +1,7 @@
 # Text-Editor-using-dual-stack
 
 
-##Brief
+#Brief
 
 The idea behind our project is to create a text editor using dual stack. 
 In this text editor we have implemented various functions, which are :-
